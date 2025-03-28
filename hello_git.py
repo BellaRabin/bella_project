@@ -14,3 +14,5 @@ while ind <= 9:
 # осталось из testing
 s = 'Version Control System'
 print(f'{s} - length is {len(s)} characters')
+
+print('Hello git hub')
